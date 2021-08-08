@@ -1,9 +1,5 @@
 package main
 
-import (
-	"fmt"
-)
-
-func main() {
-	fmt.Println("new file")
+func sum(n1, n2 int) int {
+	return n1 + n2
 }
